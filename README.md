@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CyberSecurity Defense and deepening my knowledge of Python and shell scripting!
 - 💞️ I’m looking to collaborate on Linux and Cyberdefense projects
 - 📫 How to reach me: <b>follow me!</b>
-- 😄 Pronouns: none
+- 😄 Pronouns: he/him/sir
 - ⚡ Fun fact: my PitBull uses Linux  :=D😁!
 <p> </p>
 <p> </p>
